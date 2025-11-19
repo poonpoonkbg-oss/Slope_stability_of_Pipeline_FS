@@ -1,0 +1,5042 @@
+[
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 6.585,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 4.573,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 3.528,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.934,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.578,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.355,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.238,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.171,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.165,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.153,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 4.451,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 2.749,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 2.021,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.646,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.418,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.285,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.208,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.167,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.155,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.155,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 4.447,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 2.774,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 2.066,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.645,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.419,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.282,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.206,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.165,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.154,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.153,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 6.464,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 4.433,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 3.415,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.775,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.364,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.087,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.891,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.774,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.715,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.705,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 4.371,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 2.637,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.97,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.551,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.306,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.136,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.026,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 4.365,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 2.692,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.967,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.56,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.308,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.135,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.025,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 6.356,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 4.32,
+        "X (m)": 8.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 3.298,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.683,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.268,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.961,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.735,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.572,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.454,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.422,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 4.321,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 2.634,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.918,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.487,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.228,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.055,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 4.305,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 2.63,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.916,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.492,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.225,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.055,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 6.31,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 4.143,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 3.168,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.563,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.145,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.872,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.661,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.478,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.347,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.28,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 4.234,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 2.574,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.864,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.464,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.207,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.032,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 4.529,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 2.571,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.86,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.463,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.208,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.032,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 5.768,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 3.96,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.975,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.418,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.012,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.705,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.538,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.371,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.244,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.15,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 4.112,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 2.471,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.782,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.393,
+        "X (m)": 7.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.114,
+        "X (m)": 7.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 4.148,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 2.491,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.769,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.385,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.138,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 5.455,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 3.753,
+        "X (m)": 5.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 2.761,
+        "X (m)": 6.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 2.252,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.869,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.608,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.401,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.262,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.147,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.042,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 3.622,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 2.233,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.664,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.275,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.041,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 3.642,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 2.25,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.643,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.277,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.043,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 4.375,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 2.993,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 2.458,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.978,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.681,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.442,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.274,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.142,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.027,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 3.326,
+        "X (m)": 2
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 2.047,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.511,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.179,
+        "X (m)": 7.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 3.334,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 2.039,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.522,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.181,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G1",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 5.147,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 3.908,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 3.156,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.684,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.332,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.058,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.869,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.726,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.627,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.558,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 3.248,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 2.1,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.552,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.234,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.033,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 3.231,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 2.104,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.557,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.243,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.038,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 5.018,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 3.722,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 3.021,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.569,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.206,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.951,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.748,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.585,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.453,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.349,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 3.189,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 2.04,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.501,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.194,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 3.193,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 2.032,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.506,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.195,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 4.739,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 3.617,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.897,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.42,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.075,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.844,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.65,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.499,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.372,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.268,
+        "X (m)": 14
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 3.146,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.99,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.462,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.159,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 3.131,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.982,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.461,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.158,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 4.35,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 3.325,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.697,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.285,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.972,
+        "X (m)": 7.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.718,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.538,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.408,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.284,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.186,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 2.974,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.93,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.412,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.115,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 2.976,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.926,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.415,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.119,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 3.937,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 3.094,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.502,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.117,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.823,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.597,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.434,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.291,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.182,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.099,
+        "X (m)": 12
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 2.772,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.813,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.34,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.052,
+        "X (m)": 5.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 2.772,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.818,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.339,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.053,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 3.816,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 2.906,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 2.325,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.95,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.675,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.47,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.311,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.188,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.073,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 2.765,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.738,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.248,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 2.774,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.737,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.248,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 3.458,
+        "X (m)": 2
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 2.627,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 2.109,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.776,
+        "X (m)": 5.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.53,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.337,
+        "X (m)": 8.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.182,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.068,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 2.569,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.621,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.163,
+        "X (m)": 3.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 2.549,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.629,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.161,
+        "X (m)": 4.5
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G2",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 3.796,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.97,
+        "X (m)": 6.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.482,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 2.127,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.879,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.69,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.531,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.393,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.293,
+        "X (m)": 10.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "20°",
+        "F.S.": 1.187,
+        "X (m)": 10.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 2.331,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.523,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": 1.14,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 2.331,
+        "X (m)": 6.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.521,
+        "X (m)": 7.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": 1.137,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "20°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 3.757,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.864,
+        "X (m)": 6.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.355,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 2.025,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.776,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.579,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.434,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.306,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.205,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "30°",
+        "F.S.": 1.126,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 2.303,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.483,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": 1.105,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 2.295,
+        "X (m)": 5.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.479,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": 1.106,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "30°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 3.654,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.734,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 2.25,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.89,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.661,
+        "X (m)": 8.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.494,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.348,
+        "X (m)": 9.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.225,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.12,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "40°",
+        "F.S.": 1.032,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 2.261,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.445,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": 1.069,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 2.258,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.446,
+        "X (m)": 6.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": 1.076,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "40°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 3.378,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.609,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 2.131,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.788,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.553,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.391,
+        "X (m)": 10.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.252,
+        "X (m)": 13
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.135,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": 1.047,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 2.221,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.401,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": 1.034,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 2.215,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.401,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": 1.033,
+        "X (m)": 10
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "50°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 3.156,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 2.439,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.971,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.671,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.445,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.268,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.162,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": 1.061,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 2.147,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": 1.356,
+        "X (m)": 8
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 2.118,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": 1.343,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "60°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 3.006,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 2.237,
+        "X (m)": 6
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.798,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.536,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.339,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.173,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": 1.045,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.825,
+        "X (m)": 2.5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": 1.237,
+        "X (m)": 4
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.826,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": 1.233,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "70°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 2.829,
+        "X (m)": 2
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.856,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.534,
+        "X (m)": 7
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.333,
+        "X (m)": 9
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.158,
+        "X (m)": 11
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": 1.043,
+        "X (m)": 15
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "WET",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.635,
+        "X (m)": 2
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": 1.082,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "DRY",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 1,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.628,
+        "X (m)": 3
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 2,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": 1.079,
+        "X (m)": 5
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 3,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 4,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 5,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 6,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 7,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 8,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 9,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    },
+    {
+        "Zone": "G3",
+        "Depth (m)": 10,
+        "Case": "RAPID",
+        "Degree (°)": "80°",
+        "F.S.": "N/A",
+        "X (m)": "N/A"
+    }
+]

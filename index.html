@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Slope Stability – KU Style</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="bar">
+            <div class="brand">
+                <img src="LOGO/KU_X_PTT.png">
+                <h1>การวิเคราะห์เสถียรภาพความลาดชันบริเวณท่อส่งก๊าซฯ ในพื้นที่ลุ่มแม่น้ำเจ้าพระยา</h1>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+        <div class="row-equal">
+
+            <section class="card panel-input">
+                <header>
+                    <h2>ป้อนข้อมูล</h2>
+                </header>
+
+                <div class="body">
+                    <div class="form-row">
+                        <label>ZONE ลาดชัน</label>
+                        <select id="zone">
+                            <option value="">กดเลือก</option>
+                            <option value="ABC">Zone ABC</option>
+                            <option value="D">Zone D</option>
+                            <option value="EF">Zone EF</option>
+                        </select>
+                    </div>
+
+                    <div class="form-row">
+                        <label>ความลึกลาดชัน</label>
+                        <select id="depth">
+                            <option value="">กดเลือก</option>
+                            <option value="1">ไม่มีการขุด</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                        </select>
+                        <span>เมตร</span>
+                    </div>
+
+                    <div class="form-row">
+                        <label>มุมลาดดิน</label>
+                        <select id="theta">
+                            <option value="">กดเลือก</option>
+                            <option value="20">20</option>
+                            <option value="30">30</option>
+                            <option value="40">40</option>
+                            <option value="50">50</option>
+                            <option value="60">60</option>
+                            <option value="70">70</option>
+                            <option value="80">80</option>
+                        </select>
+                        <span>องศา</span>
+                    </div>
+
+                    <div class="form-row">
+                        <label>ระดับน้ำ</label>
+                        <select id="water_level">
+                            <option value="">กดเลือก</option>
+                            <option value="ผิวดิน">ผิวดิน</option>
+                            <option value="ไม่มีพิจารณาระดับน้ำ">ไม่มีพิจารณาระดับน้ำ</option>
+                            <option value="ลดลงอย่างรวดเร็ว">ลดลงอย่างรวดเร็ว (Rapid Drawdown)</option>
+                        </select>
+                    </div>
+
+                </div>
+            </section>
+
+        <section class="card panel-plot-full">
+            <header>
+                <h2>ผลประเมินเสถียรภาพทางความลาดชัน</h2>
+            </header>
+        
+            <div class="body">
+                <div class="plot-box" id="imgContainer"></div>
+                <div class="scale-text">Scale : meter (m)</div>
+            </div>
+        </section>
+
+
+        </div>
+
+        <section class="card panel-result">
+            <header>
+                <h2>ผลลัพธ์ความเสถียรภาพ</h2>
+            </header>
+
+            <div class="body">
+                <div class="fs-wrap">
+                    <div class="fs-title">Factor of Safety =</div>
+                    <div id="fsBox" class="fs-box">0.000</div>
+                </div>
+
+                <div class="fs-wrap">
+                    <div class="fs-title">ระยะปลอดภัย =</div>
+                    <div id="dispBox" class="fs-box disp">0.000 m</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="card panel-param">
+            <header style="display: flex; justify-content: space-between; align-items: center;">
+                <h2>ค่าพารามิเตอร์</h2>
+
+                <label class="switch">
+                    <input type="checkbox" id="toggleParamTable">
+                    <span class="slider round"></span>
+                </label>
+
+            </header>
+            <div id="paramBody" class="body" style="display: none;">
+                <table id="parameter-table" class="param-summary-table">
+                    <colgroup>
+                        <col style="width: 18%;">
+                        <col>
+                        <col>
+                        <col>
+                        <col style="width: 12%;">
+                    </colgroup>
+                    <thead>
+                        <tr>
+                            <th id="zoneHeader">ZONE</th>
+                            <th>Soft Clay</th>
+                            <th>Stiff Clay</th>
+                            <th>Sand</th>
+                            <th>Unit</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>γ</td>
+                            <td id="p1_gamma_val"></td>
+                            <td id="p2_gamma_val"></td>
+                            <td id="p3_gamma_val"></td>
+                            <td>kN/m³</td>
+                        </tr>
+                        <tr>
+                            <td>Su</td>
+                            <td id="p1_su_val"></td>
+                            <td id="p2_su_val"></td>
+                            <td id="p3_su_val"></td>
+                            <td>kPa</td>
+                        </tr>
+                        <tr>
+                            <td>C</td>
+                            <td id="p1_c_val"></td>
+                            <td id="p2_c_val"></td>
+                            <td id="p3_c_val"></td>
+                            <td>kPa</td>
+                        </tr>
+                        <tr>
+                            <td>φ</td>
+                            <td id="p1_phi_val"></td>
+                            <td id="p2_phi_val"></td>
+                            <td id="p3_phi_val"></td>
+                            <td>°</td>
+                        </tr>
+                        <tr>
+                            <td>ν</td>
+                            <td id="p1_nu_val"></td>
+                            <td id="p2_nu_val"></td>
+                            <td id="p3_nu_val"></td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>E</td>
+                            <td id="p1_e_val"></td>
+                            <td id="p2_e_val"></td>
+                            <td id="p3_e_val"></td>
+                            <td>kN/m²</td>
+                        </tr>
+                        <tr>
+                            <td>Void ratio</td>
+                            <td id="p1_void_val"></td>
+                            <td id="p2_void_val"></td>
+                            <td id="p3_void_val"></td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Ko</td>
+                            <td id="p1_ko_val"></td>
+                            <td id="p2_ko_val"></td>
+                            <td id="p3_ko_val"></td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>Kx</td>
+                            <td id="p1_kx_val"></td>
+                            <td id="p2_kx_val"></td>
+                            <td id="p3_kx_val"></td>
+                            <td>m/day</td>
+                        </tr>
+                        <tr>
+                            <td>Ky</td>
+                            <td id="p1_ky_val"></td>
+                            <td id="p2_ky_val"></td>
+                            <td id="p3_ky_val"></td>
+                            <td>m/day</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
