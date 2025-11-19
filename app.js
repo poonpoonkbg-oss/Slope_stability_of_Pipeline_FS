@@ -41,12 +41,12 @@ let FS_DATA = null;
 const el = id => document.getElementById(id);
 
 // -----------------------------
-// Format FS
+// Format (FS: 3 decimals, X: 1 decimal)
 // -----------------------------
-const formatFS = (value) => {
-    if (!value || value === "N/A") return "0.000";
+const formatFS = (value, digits = 1) => {
+    if (!value || value === "N/A") return digits === 3 ? "0.000" : "0.0";
     const n = parseFloat(value);
-    return isNaN(n) ? "0.000" : n.toFixed(3);
+    return isNaN(n) ? (digits === 3 ? "0.000" : "0.0") : n.toFixed(digits);
 };
 
 // -----------------------------
@@ -66,7 +66,7 @@ function checkInputs() {
 // -----------------------------
 function resetDisplay() {
     el("fsBox").textContent = "0.000";
-    el("dispBox").textContent = "0.000 m";
+    el("dispBox").textContent = "0.0 m";
 
     el("imgContainer").innerHTML =
         `<div style="text-align:center;color:#999;padding:20px;font-size:18px;">
@@ -133,18 +133,21 @@ function computeFS() {
 
     if (!found) {
         el("fsBox").textContent = "0.000";
-        el("dispBox").textContent = "0.000 m";
+        el("dispBox").textContent = "0.0 m";
         return;
     }
 
-    el("fsBox").textContent = formatFS(found["F.S."]);
+    // F.S. → 3 decimals
+    el("fsBox").textContent = formatFS(found["F.S."], 3);
+
+    // X (m) → 1 decimal
     el("dispBox").textContent = found["X (m)"]
-        ? formatFS(found["X (m)"]) + " m"
-        : "0.000 m";
+        ? formatFS(found["X (m)"], 1) + " m"
+        : "0.0 m";
 }
 
 // -----------------------------
-// Show Image (FIXED VERSION)
+// Show Image
 // -----------------------------
 function showImage() {
     const zone = el("zone").value;
@@ -157,13 +160,10 @@ function showImage() {
         return;
     }
 
-    const prefix = ZONE_MAP[zone];    // G1 / G2 / G3
-    const water = WATER_LEVEL_MAP[wl]; // DRY / WET / RAPID
+    const prefix = ZONE_MAP[zone];
+    const water = WATER_LEVEL_MAP[wl];
 
-    // ✔ โฟลเดอร์จริง (มีโฟลเดอร์ prefix ซ้อนอีกชั้น)
     const folder = `PTT_PICTURE/${prefix}/${prefix}_${water}_ADDEDFailureline`;
-
-    // ✔ ชื่อไฟล์จริง
     const file = `${prefix}_${water}_${theta}_${depth}m.png`;
 
     const fullPath = `${folder}/${file}`;
