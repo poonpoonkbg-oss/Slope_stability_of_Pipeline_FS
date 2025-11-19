@@ -41,6 +41,41 @@ let FS_DATA = null;
 const el = id => document.getElementById(id);
 
 // -----------------------------
+// Convert scientific number to "8.64 × 10⁻7"
+// -----------------------------
+function formatPower(val) {
+    if (val === null || val === undefined || val === "-" || val === "") return "-";
+
+    let num = Number(val);
+    if (isNaN(num)) return val;
+
+    // แปลงเป็น e notation เช่น "8.64e-7"
+    let exp = num.toExponential(2); // 2 ตำแหน่งนัยสำคัญ
+    let parts = exp.split("e");
+    let base = parts[0];
+    let power = Number(parts[1]);
+
+    // superscript map
+    const sup = {
+        "-": "⁻",
+        "0": "⁰",
+        "1": "¹",
+        "2": "²",
+        "3": "³",
+        "4": "⁴",
+        "5": "⁵",
+        "6": "⁶",
+        "7": "⁷",
+        "8": "⁸",
+        "9": "⁹"
+    };
+
+    let powerStr = [...power.toString()].map(c => sup[c] || c).join("");
+
+    return `${base} × 10${powerStr}`;
+}
+
+// -----------------------------
 // Format (FS: 3 decimals, X: 1 decimal)
 // -----------------------------
 const formatFS = (value, digits = 1) => {
@@ -91,8 +126,10 @@ function fillParams(prefix, data) {
     el(prefix + "_e_val").textContent = v("E");
     el(prefix + "_void_val").textContent = v("void");
     el(prefix + "_ko_val").textContent = v("Ko");
-    el(prefix + "_kx_val").textContent = v("Kx");
-    el(prefix + "_ky_val").textContent = v("Ky");
+
+    // Kx / Ky แสดงเป็น 8.64 × 10⁻⁷
+    el(prefix + "_kx_val").textContent = formatPower(v("Kx"));
+    el(prefix + "_ky_val").textContent = formatPower(v("Ky"));
 }
 
 // -----------------------------
@@ -160,12 +197,11 @@ function showImage() {
         return;
     }
 
-    const prefix = ZONE_MAP[zone];
-    const water = WATER_LEVEL_MAP[wl];
+    const prefix = ZONE_MAP[zone];    // G1 / G2 / G3
+    const water = WATER_LEVEL_MAP[wl]; // DRY / WET / RAPID
 
     const folder = `PTT_PICTURE/${prefix}/${prefix}_${water}_ADDEDFailureline`;
     const file = `${prefix}_${water}_${theta}_${depth}m.png`;
-
     const fullPath = `${folder}/${file}`;
 
     const container = el("imgContainer");
